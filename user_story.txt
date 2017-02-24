@@ -1,0 +1,12 @@
+
+
+User Story:
+As a: person with a license
+I want to: rent a car
+So that: I can go places
+
+Scenarios:
+-The person has a valid license and sufficient funds
+-The person has a valid license but insufficient funds
+-The person has neither a license or funds
+
